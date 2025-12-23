@@ -1,7 +1,8 @@
+import Chai from "./test1"
 function App() {
   return (
     <>
-      <h1>React with vite | RBslayer</h1>
+    <Chai/>
     </>
   )
 }
