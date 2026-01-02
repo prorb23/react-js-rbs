@@ -1,0 +1,5 @@
+export { default as Layout } from './Layout'
+export { default as Home } from './components/Home/Home'
+export { default as About } from './components/About/About'
+export { default as Contact } from './components/Contact/Contact'
+export { default as User } from './components/User/User'
